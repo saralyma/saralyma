@@ -43,7 +43,7 @@ Engenheira de Software formada em 2024.
 ---
 
 ### 📌 Projetos em Destaque 
-
+( EM BREVE )
 1. **[Java-Microservice-Template]**: Estrutura de microserviço em Java focada em testes e padrões de design.
 2. **[API-Integration-Tests]**: Demonstração de testes automatizados de API com framework Java (Qualidade de Código).
 3. **[Azure-CI-CD-Pipeline]**: Exemplo de pipeline de entrega contínua (GitHub Actions) para deploy no Azure.
@@ -51,5 +51,5 @@ Engenheira de Software formada em 2024.
 ---
 
 ### 🤝 Conecte-se
-* **LinkedIn:** [LINK DO SEU LINKEDIN]
-* **Email:** [SEU EMAIL PROFISSIONAL]
+* **LinkedIn:** [(https://www.linkedin.com/in/saralyma/)]
+* **Email:** [saralm910@gmail.com]
