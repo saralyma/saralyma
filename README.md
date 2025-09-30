@@ -23,7 +23,7 @@ Engenheira de Software formada em 2024.
 
 ### 🏆 Minhas Provas de Conhecimento (Certificações)
 
-[![AZ-900 Badge](URL DA IMAGEM DO BADGE AZ-900)](https://learn.microsoft.com/api/credentials/share/pt-br/SaraLyma-1245/320092D55C8C5E...9F7166839447ECB9) 
+[![AZ-900 Badge]([URL DA IMAGEM DO BADGE AZ-900](https://github.com/saralyma/cert-badges/blob/main/images/AZ900.png))](https://learn.microsoft.com/api/credentials/share/pt-br/SaraLyma-1245/320092D55C8C5E...9F7166839447ECB9) 
 [![SC-900 Badge](URL DA IMAGEM DO BADGE SC-900)](LINK DE VALIDAÇÃO SC-900) 
 
 *(...e assim por diante para as 14 certificações, uma após a outra)*
