@@ -22,7 +22,7 @@ Engenheira de Software formada em 2024.
 
 ### 🏆 Minhas Provas de Conhecimento (Certificações)
 
-[![AZ-900 Badge](URL_RAW_IMAGEM_AZ900)](URL_VALIDACAO_MICROSOFT_AZ900)
+[![AZ-900 Badge]([![AZ-900 Microsoft Badge](https://raw.githubusercontent.com/saralyma/cert-badges/main/images/AZ900.png)](LINK_DE_VALIDACAO_AZ900)](URL_VALIDACAO_MICROSOFT_AZ900)
 [![AI-900 Badge](URL_RAW_IMAGEM_AI900)](URL_VALIDACAO_MICROSOFT_AI900)
 [![SC-900 Badge](URL_RAW_IMAGEM_SC900)](URL_VALIDACAO_MICROSOFT_SC900)
 [![MS-900 Badge](URL_RAW_IMAGEM_MS900)](URL_VALIDACAO_MICROSOFT_MS900)
