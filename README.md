@@ -22,24 +22,23 @@ Engenheira de Software formada em 2024.
 
 ### 🏆 Minhas  Certificações
 
-[![AZ-900 Badge]
-[![AI-900 Badge]
-[![SC-900 Badge](URL_RAW_IMAGEM_SC900)](URL_VALIDACAO_MICROSOFT_SC900)
-[![MS-900 Badge](URL_RAW_IMAGEM_MS900)](URL_VALIDACAO_MICROSOFT_MS900)
-[![DB-900 Badge](URL_RAW_IMAGEM_DB900)](URL_VALIDACAO_MICROSOFT_DB900)
-[![MB-910 Badge](URL_RAW_IMAGEM_MB910)](URL_VALIDACAO_MICROSOFT_MB910)
-[![PL-900 Badge](URL_RAW_IMAGEM_PL900)](URL_VALIDACAO_MICROSOFT_PL900)
-
-[![PL-100 Badge](URL_RAW_IMAGEM_PL100)](URL_VALIDACAO_MICROSOFT_PL100)
-[![PL-200 Badge](URL_RAW_IMAGEM_PL200)](URL_VALIDACAO_MICROSOFT_PL200)
-[![SC-200 Badge](URL_RAW_IMAGEM_SC200)](URL_VALIDACAO_MICROSOFT_SC200)
-
-[![SCRUM PSD1 Badge](URL_RAW_IMAGEM_SCRUM)](URL_VALIDACAO_SCRUM)
-[![GitHub Foundations Badge](URL_RAW_IMAGEM_GHFOUND)](URL_VALIDACAO_GITHUB_FOUND)
-[![GitHub Admin Badge](URL_RAW_IMAGEM_GHADMIN)](URL_VALIDACAO_GITHUB_ADMIN)
-[![GitHub Copilot Badge](URL_RAW_IMAGEM_GHCOPILOT)](URL_VALIDACAO_GITHUB_COPILOT)
-[![GitHub Actions Badge](URL_RAW_IMAGEM_GHACTIONS)](URL_VALIDACAO_GITHUB_ACTIONS)
-
+| Categoria Principal | Certificação | Nível | Foco Principal |
+| :--- | :--- | :--- | :--- |
+| **Cloud (Azure)** | AZ-900 (Azure Fundamentals) | Fundamental | Conceitos Básicos de Cloud Computing. |
+| **Inteligência Artificial** | AI-900 (Azure AI Fundamentals) | Fundamental | Serviços de IA e Machine Learning no Azure. |
+| **Segurança e Identidade** | SC-900 (Security Fundamentals) | Fundamental | Segurança, Compliance e Identidade. |
+| **Segurança Avançada** | SC-200 (Azure Security Operations Analyst) | Associado | Monitoramento e Resposta a Ameaças de Segurança. |
+| **Dados** | DB-900 (Azure Data Fundamentals) | Fundamental | Conceitos de Dados em Cloud (SQL, NoSQL, etc.). |
+| **Microsoft 365** | MS-900 (M365 Fundamentals) | Fundamental | Serviços e Gerenciamento do Microsoft 365. |
+| **Business Applications** | MB-910 (Dynamics 365 Fundamentals) | Fundamental | Fundamentos de Dynamics 365. |
+| **Power Platform** | PL-900 (Power Platform Fundamentals) | Fundamental | Fundamentos da plataforma Low-Code. |
+| **Power Platform** | PL-100 (Power Platform App Maker) | Associado | Criação de soluções e aplicativos. |
+| **Power Platform** | PL-200 (Power Platform Functional Consultant) | Associado | Implementação de soluções de negócio. |
+| **Metodologia (Scrum)** | **SCRUM PSD I** (Prof. Scrum Developer) | Profissional | Práticas de Desenvolvimento dentro do Scrum. |
+| **Ferramentas/DevOps** | GitHub Foundations | Fundamental | Conceitos de Colaboração e Git. |
+| **Ferramentas/DevOps** | GitHub Actions | Associado | Automação de Workflows e CI/CD. |
+| **Ferramentas/DevOps** | GitHub Administration | Associado | Administração de Ambientes e Segurança no GitHub. |
+| **Ferramentas/AI** | GitHub Copilot | Conhecimento | Uso de IA para otimizar o Desenvolvimento de Código. |
 
 ---
 
