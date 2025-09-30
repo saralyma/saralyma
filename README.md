@@ -20,7 +20,7 @@ Engenheira de Software formada em 2024.
 
 ---
 
-### 🏆 Minhas Provas de Conhecimento (Certificações)
+### 🏆 Minhas  Certificações
 
 [![AZ-900 Badge]
 [![AI-900 Badge]
@@ -43,8 +43,8 @@ Engenheira de Software formada em 2024.
 
 ---
 
-### 📌 Projetos em Destaque (Fixe estes 3!)
-*Exemplos de projetos que demonstram meu conhecimento aplicado em código:*
+### 📌 Projetos em Destaque 
+
 1. **[Java-Microservice-Template]**: Estrutura de microserviço em Java focada em testes e padrões de design.
 2. **[API-Integration-Tests]**: Demonstração de testes automatizados de API com framework Java (Qualidade de Código).
 3. **[Azure-CI-CD-Pipeline]**: Exemplo de pipeline de entrega contínua (GitHub Actions) para deploy no Azure.
