@@ -2,7 +2,7 @@
 
 # 💻 Sara Lyma | Engenheira de Software 
 
-## Vasta vivência de anos de visão de negócios (Contabilidade/Empreendedorismo) aplicados à Engenharia de Software.
+## Visão do negocio e a visão do Desenvolvedor de Software
 Engenheira de Software formada em 2024. 
 -Desenvolvimento **Java/Spring Boot/ Gradle ** , arquitetura de **Microservices** e **Estratégia Cloud Azure**. **14x Certificada Microsoft**. 
 -Desenvolvimeno de C# para customização do Dynamics 365 .
@@ -13,10 +13,10 @@ Engenheira de Software formada em 2024.
 ### 🚀 Minhas Habilidades Técnicas (Hard Skills)
 | Categoria | Tecnologias e Foco |
 | :--- | :--- |
-| **Back-end & APIs** | **Java (Proficiente)**, Spring Boot, **Gradle**, REST APIs, C#, NestJS. |
+| **Back-end & APIs** | **Java , Spring Boot, **Gradle**, REST APIs, C#, NestJS. |
 | **Front-end & UI** | JavaScript, HTML5, CSS3. |
 | **Cloud & DevOps** | Azure (AZ-900), CI/CD com GitHub Actions, Docker, Monitoramento. |
-| **Qualidade & Métodos** | Testes Unitários/Integração, **SCRUM (PSD I)**, Documentação Técnica. |
+| **Qualidade & Métodos** | Testes Unitários/ **SCRUM (PSD I)**, Documentação Técnica. |
 
 ---
 
