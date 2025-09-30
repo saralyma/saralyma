@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+This is my official page, but it is still under construction.
 # 💻 Sara Lyma | Engenheira de Software 
 
-## Visão do negocio e a visão do Desenvolvedor de Software
+## Minha jornada até aqui !
 Engenheira de Software formada em 2024. 
 -Desenvolvimento **Java/Spring Boot/ Gradle ** , arquitetura de **Microservices** e **Estratégia Cloud Azure**. **14x Certificada Microsoft**. 
 -Desenvolvimeno de C# para customização do Dynamics 365 .
