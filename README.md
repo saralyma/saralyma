@@ -3,10 +3,10 @@ This is my official page, but it is still under construction.
 # 💻 Sara Lyma | Engenheira de Software 
 
 ## Minha jornada até aqui !
-Engenheira de Software formada em 2024. 
+Engenheira de Software formada em 2024.
 -Desenvolvimento **Java/Spring Boot/ Gradle ** , arquitetura de **Microservices** e **Estratégia Cloud Azure**. **14x Certificada Microsoft**. 
--Desenvolvimeno de C# para customização do Dynamics 365 .
--Desenvolvimento com NestJs 
+-Desenvolvimeno Customização em C# para CRM Dynamics 365 e desenvolvimento com NestJS.
+
 
 ---
 
@@ -43,7 +43,7 @@ Engenheira de Software formada em 2024.
 ---
 
 ### 📌 Projetos em Destaque 
-( EM BREVE )
+⚙️ **AJUSTANDO** | Novos projetos e informações em breve.
 1. **[Java-Microservice-Template]**: Estrutura de microserviço em Java focada em testes e padrões de design.
 2. **[API-Integration-Tests]**: Demonstração de testes automatizados de API com framework Java (Qualidade de Código).
 3. **[Azure-CI-CD-Pipeline]**: Exemplo de pipeline de entrega contínua (GitHub Actions) para deploy no Azure.
