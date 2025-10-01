@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is my official page, but it is still under construction.
+
 # 💻 Sara Lyma | Engenheira de Software 
 
 ## Minha jornada até aqui !
@@ -43,7 +43,9 @@ Engenheira de Software formada em 2024.
 ---
 
 ### 📌 Projetos em Destaque 
+
 ⚙️ **AJUSTANDO** | Novos projetos e informações em breve.
+
 1. **[Java-Microservice-Template]**: Estrutura de microserviço em Java focada em testes e padrões de design.
 2. **[API-Integration-Tests]**: Demonstração de testes automatizados de API com framework Java (Qualidade de Código).
 3. **[Azure-CI-CD-Pipeline]**: Exemplo de pipeline de entrega contínua (GitHub Actions) para deploy no Azure.
